@@ -1,0 +1,31 @@
+{
+    "id": "TTRPG", 
+    "title": "Link Core System",
+    "description": "The core system a ttrpg in development by greaseboi",
+    "version": "0.0.1",
+    "authers" : "greaseboi",
+    "compatibility": {
+        "minimum": 14,
+        "verfied": "14",
+        "maximum": 14
+    },
+    "esmodules": [
+        "ttrpg.js"
+    ],
+    "styles": [
+        "ttrpg.css"
+    ],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
+    ],
+    "socket": false,
+    "grid": {
+        "distance": 1,
+        "units": "Feet"
+    },
+    "url": "https://github.com/SeanHaugen/ttrpg.git"
+}
