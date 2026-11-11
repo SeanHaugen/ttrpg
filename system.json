@@ -24,7 +24,7 @@
     ],
     "socket": false,
     "grid": {
-        "distance": 1,
+        "distance": 5,
         "units": "Feet"
     },
     "url": "https://github.com/SeanHaugen/ttrpg.git"
